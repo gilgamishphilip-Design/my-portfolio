@@ -700,3 +700,7 @@ figure.effect-bubba:hover p {
   box-shadow: 0 5px 15px rgba(0,0,0,0.2); /* Subtle shadow */
   object-fit: cover;    /* Ensures the image fills the circle */
 }
+.tm-intro p, .tm-intro .tm-color-gray {
+    font-weight: 500 !important;
+    color: #222222 !important;
+}
